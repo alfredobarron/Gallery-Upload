@@ -6,9 +6,9 @@ Galeria de imagenes y cargador de archivos. HTML5 Drag and Drop . Bootstrap . Jq
 
 ##Dependencias.
 
--Jquery
--Twitter Bootstrap 3
--class.upload.php
+- Jquery
+- Twitter Bootstrap 3
+- class.upload.php
 
 
 ##Comunidad
